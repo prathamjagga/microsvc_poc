@@ -1,0 +1,4 @@
+/monolith
+/payment_msvc copy
+node_modules/
+build/
